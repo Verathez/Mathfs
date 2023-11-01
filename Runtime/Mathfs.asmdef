@@ -1,5 +1,6 @@
 {
-    "name": "MathfsAsmdef",
+    "name": "Mathfs",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
